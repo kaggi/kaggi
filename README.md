@@ -1,5 +1,7 @@
 ### Hi there 👋
-- My name is Lola
+- My name is Lola V.V. Lohne
+- I work at Western Norway University of Applied Sciences, IT department
+- I work with SCCM and license servers
 - 🔭 I’m currently working on My Portfolio page
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: lola.lohne@gmail.com
